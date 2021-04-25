@@ -1,16 +1,19 @@
 # MicroRank
-MicroRank is a novel system to locate root causes that lead to latency issues in microservice environments. MicroRank extracts service latency from tracing data then conducts the anomaly detection procedure. By combining PageRank and spectrum analysis, the service instances that lead
-to latency issues are ranked with high scores. 
+MicroRank is a novel system to locate root causes that lead to latency issues in microservice environments. 
+
+MicroRank extracts service latency from tracing data then conducts the anomaly detection procedure.
+
+By combining PageRank and spectrum analysis, the service instances that lead to latency issues are ranked with high scores. 
 
 ## Paper Download
-Our paper will be published at WWW'2021
+Our paper will be published at WWW'2021.
 
-The early access paper can be down load as below:
+The early access paper can be downloaded as below:
 
 [MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments](./WWW2021_MicroRank.pdf)
 
 ## Code
-The source code of microrank will be opensourced later
+The source code of microrank will be opensourced later.
 
 ## Reference
 Please cite our paper if you find this work is helpful. 
