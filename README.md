@@ -5,6 +5,8 @@ MicroRank extracts service latency from tracing data then conducts the anomaly d
 
 By combining PageRank and spectrum analysis, the service instances that lead to latency issues are ranked with high scores. 
 
+![image](./fig/framwork.png)
+
 ## Paper Download
 Our paper will be published at WWW'2021.
 
