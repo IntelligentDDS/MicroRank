@@ -8,11 +8,11 @@ By combining PageRank and spectrum analysis, the service instances that lead to 
 ![image](./fig/framwork.png)
 
 ## Paper Download
-Our paper will be published at WWW'2021.
+Our paper has been published at WWW'2021.
 
-The early access paper can be downloaded as below:
+The paper can be downloaded as below:
 
-[MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments](./WWW2021_MicroRank.pdf)
+[MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments](https://dl.acm.org/doi/10.1145/3442381.3449905)
 
 ## Code
 The source code of microrank will be opensourced later.
@@ -27,6 +27,7 @@ Please cite our paper if you find this work is helpful.
   booktitle={Proceedings ofthe Web Conference 2021 (WWW’21)},
   year={2021},
   organization={ACM},
+  page = {3087-3098},
   doi={https://doi.org/10.1145/3442381.3449905}
 }
 ```
